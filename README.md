@@ -26,9 +26,8 @@ Formarme como desarrollador Front-End sólido, con una base técnica bien constr
 ### 📫 ¿Hablamos?
 Puedes contactarme o seguir mi progreso:
 
-- ✉️ [TuEmail@example.com]  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil/) *(si tienes uno)*  
-- 🌐 Portafolio (próximamente / si ya tienes uno)
+- ✉️ alexarroyogonzalez@gmail.com
+
 
 ---
 
